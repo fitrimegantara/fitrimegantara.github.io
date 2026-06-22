@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sport.2bd.net/sitemap.xml
+Sitemap: https://sport.2bd.net/sitemap.html
